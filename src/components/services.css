@@ -1,0 +1,16 @@
+.services {
+  padding: 80px 0px;
+}
+.service {
+  margin-top: 20px;
+}
+.service .service_img {
+  margin-bottom: 30px;
+}
+.service .service_details h4 {
+  font-size: 1.125rem;
+  margin-bottom: 0px;
+}
+.service .service_details p {
+  font-size: 1.01rem;
+}

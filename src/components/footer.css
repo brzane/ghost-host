@@ -1,0 +1,41 @@
+.footer {
+  background: #2a2a2a;
+  padding: 80px 0px;
+}
+.footer .main_footer {
+  border-bottom: 1px solid #686868;
+  display: inline-block;
+  width: 100%;
+  padding-bottom: 18px;
+  margin-bottom: 70px;
+}
+.footer .footer_logo a h3 {
+  color: #fff;
+}
+.footer .footer_menu {
+  padding-top: 12px;
+}
+.footer .footer_menu li a {
+  font-size: 0.8125rem;
+  font-family: "latomedium";
+  padding: 0px 10px;
+  float: right;
+}
+.footer a,
+p {
+  color: #686868;
+}
+.footer a:hover,
+i:hover {
+  color: #fff;
+}
+
+.footer .footer_bottom_left {
+  border-right: 1px solid #686868;
+}
+
+.footer .footer_bottom_right p,
+a {
+  font-size: 13px;
+  display: block;
+}

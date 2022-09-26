@@ -1,0 +1,161 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html,
+body {
+  background-color: #fff;
+  font-size: 15px;
+  color: #565656;
+  width: 100%;
+  padding: 0;
+  margin-left: 0;
+  margin-right: 0;
+  font-family: "roboto", sans-serif;
+  font-weight: 300;
+}
+
+a,
+a:hover,
+a:active,
+a:focus {
+  text-decoration: none;
+  outline: none;
+}
+a,
+button,
+a span {
+  -webkit-transition: 0.2s ease-in-out;
+  -o-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+p {
+  margin: 0 0 15px;
+}
+
+img {
+  max-width: 100%;
+}
+.yellow {
+  color: #ffcc33;
+}
+.grey {
+  color: #7f8c8d;
+}
+.red {
+  color: #f85f40;
+}
+.green {
+  color: #1abc9c;
+}
+
+h1,
+h2,
+h3 {
+  /*font-family: 'Lane', sans-serif;*/
+  font-weight: 300;
+  margin: 0;
+}
+h4,
+h5 {
+  font-family: "latoheavy";
+  font-weight: 300;
+  margin: 0;
+  line-height: 2rem;
+}
+h1 {
+  font-size: 3rem;
+  line-height: 4rem;
+  font-weight: 300;
+}
+h2 {
+  font-size: 2.5rem;
+  line-height: 3rem;
+  margin-bottom: 0.9rem;
+}
+h3 {
+  font-weight: 300;
+  margin-bottom: 0.9rem;
+  font-size: 2.1rem;
+  line-height: 2.5rem;
+}
+h4 {
+  font-size: 1.6rem;
+  line-height: 2.2rem;
+  margin-bottom: 1.1rem;
+}
+h5 {
+  font-size: 1.3rem;
+  margin-bottom: 1rem;
+}
+h6 {
+  font-size: 1rem;
+  margin-bottom: 0.9rem;
+}
+p {
+  line-height: 1.5rem;
+  font-size: 1.1rem;
+}
+p:last-child {
+  margin-bottom: 0px;
+}
+.text {
+  color: #333333;
+}
+.colorstext {
+  color: #f56363;
+}
+.coloricon i {
+  color: #f56363;
+}
+
+.footer {
+  padding-bottom: 80px;
+}
+
+.heading {
+  margin-bottom: 4rem;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  min-height: 400px;
+}
+.overlay-fluid-block {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  padding: 50px 0px;
+}
+
+.overlay-img {
+  background: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  color: #ffffff;
+}
+.no-padding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.separator {
+  height: 1px;
+  width: 150px;
+  margin: auto;
+  background: #dfdfdf;
+}
+.smallseparator {
+  height: 1px;
+  width: 80px;
+  margin: auto;
+  background: #f56363;
+}
+
+h1 span {
+  color: #f56363;
+  font-weight: 400;
+}

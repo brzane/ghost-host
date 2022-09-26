@@ -1,0 +1,8 @@
+.pricingtop {
+  background: url("../assets/images/pricingbg.jpg") no-repeat 100% 100%;
+  background-size: cover;
+}
+
+.pricing {
+  margin-top: -250px;
+}
