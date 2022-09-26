@@ -1,0 +1,15 @@
+.testimonials {
+  background: url("../assets/images/testimonialbg.jpg") no-repeat 100% 100%;
+  background-size: cover;
+}
+
+.testimonials .testimonial p {
+  max-width: 70%;
+  margin: 20px auto;
+  color: #fff;
+  font-size: 1.25rem;
+}
+.testimonials .testimonial a {
+  color: #fff;
+  font-size: 1.25rem;
+}

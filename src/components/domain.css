@@ -1,0 +1,80 @@
+.domain {
+  padding: 80px 0px;
+}
+
+.head_title {
+  margin-bottom: 40px;
+}
+.head_title h2 {
+  font-size: 1.5rem;
+  color: #383737;
+  font-family: "latoheavy";
+}
+.head_title p {
+  font-size: 1rem;
+  color: #a2a2a2;
+  font-family: "latolight";
+}
+.input-group-text {
+  padding: 6px 12px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1;
+  color: #555;
+  text-align: center;
+  background-color: transparent;
+  border: 1px solid #ccc;
+  border-radius: 1px;
+}
+.input-group-lg > .form-control,
+.input-group-lg > .input-group-addon,
+.input-group-lg > .input-group-btn > .btn {
+  height: 46px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 2px;
+}
+
+.searchlist {
+  border: 1px solid #ddd;
+  padding: 20px;
+  display: inline-block;
+  width: 100%;
+  margin-top: 40px;
+}
+.searchlist .offer-list > li {
+  display: inline-block;
+  padding-right: 0px;
+  padding-left: 0px;
+  width: 24%;
+  text-align: center;
+  border-right: 1px solid #ddd;
+  height: 100px;
+  line-height: 100px;
+  padding: 2.5em 0em;
+  border-bottom: 1px solid #ddd;
+}
+
+.searchlist .offer-list > li:last-child {
+  border-right: 0px solid #ddd;
+}
+.searchlist .offer-list.no-border > li {
+  border-bottom: 0px solid #ddd;
+}
+.searchlist ul.offer-list li {
+  position: relative;
+}
+.searchlist ul.offer-list.no-border li:after {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background: #fff;
+  left: -7%;
+  top: -15%;
+  border-radius: 50%;
+}
+.searchlist ul.offer-list.no-border li:nth-child(1):after {
+  display: none;
+}

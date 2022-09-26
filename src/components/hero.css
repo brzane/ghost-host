@@ -1,0 +1,24 @@
+.hero {
+  background: url("../assets/images/herobg.jpeg") no-repeat 100% 100%;
+  text-align: center;
+}
+.hero-overlay-fluid {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  padding: 250px 0px;
+}
+.hero p {
+  max-width: 70%;
+  font-size: 2.375rem;
+  margin: 10px auto;
+  font-family: "latoheavy_italic";
+  line-height: 45px;
+  color: #fff;
+}
+
+.hero h2 {
+  color: #fff;
+  font-size: 4.525rem;
+  font-family: "latobold";
+  margin-bottom: 50px;
+}
