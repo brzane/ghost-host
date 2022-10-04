@@ -1,6 +1,6 @@
 # Ghost-Host React App
 ## Overview
-ghost host is a landing page for server hosting with a todo app written in react typscript , this project was built as a part of my react typescript training and a challenge to  to convert a desgin into react app while adding a todo functionalty with json server API  just for fun and to master typscript more :) <br>
+ghost host is a landing page for server hosting with a todo app written in react typescript , this project was built as a part of my react typescript training and a challenge to  to convert a desgin into react app while adding a todo functionalty with json server API  just for fun and to master typscript more :) <br>
 check out the website through this link : https://ghost-host.netlify.app <br><br>
 ## Desgin and Development Comparsion
 Desgin version image: https://ibb.co/vwJ2gPG <br>
